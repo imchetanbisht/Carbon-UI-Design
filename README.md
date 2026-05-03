@@ -43,21 +43,8 @@ The website is optimized for:
 
 ## Key UI Highlights
 
-- Glass effect cards using `backdrop-filter`
+- Glass effect
 - Gradient buttons and backgrounds
 - Pixel-perfect spacing based on Figma
-- Clean typography system (Clash Display for headings, Inter for body)
+- Clean typography system
 
----
-
-## How to Run Locally
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/nftme.git
-
-# Open folder
-cd nftme
-
-# Run
-Open index.html in browser
